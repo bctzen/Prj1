@@ -11,5 +11,6 @@
 <a href="customer/notice.do">게시판</a>
 step2
 step3
+step4
 </body>
 </html>
